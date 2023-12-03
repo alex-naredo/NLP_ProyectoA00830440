@@ -4,7 +4,7 @@ import openai
 from transformers import pipeline
 
 
-api_key = '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'  # Reemplaza con tu clave de API
+api_key = '' 
 
 # Function to convert audio to text
 def transcribe_audio(audio_file):
